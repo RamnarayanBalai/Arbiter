@@ -1,5 +1,4 @@
-# Design and Analysis of Scalable Arbitration
-Algorithms
+# Design and Analysis of Scalable Arbitration Algorithms
 
 This repository compares arbitration strategies across scalable core counts:
 
