@@ -165,12 +165,12 @@ See [vivado/README.md](vivado/README.md) for Vivado automation details.
 
 ### Plot gallery
 
-![Fairness comparison](analysis/plots/fairness_comparison.png)
-![Latency comparison](analysis/plots/latency_comparison.png)
-![Throughput comparison](analysis/plots/throughput_comparison.png)
-![LUTs comparison](analysis/plots/LUTs_comparison.png)
-![Power comparison](analysis/plots/Power_comparison.png)
-![WNS comparison](analysis/plots/WNS_comparison.png)
+![Fairness comparison](fairness_comparison.png)
+![Latency comparison](latency_comparison.png)
+![Throughput comparison](throughput_comparison.png)
+![LUTs comparison](LUTs_comparison.png)
+![Power comparison](Power_comparison.png)
+![WNS comparison](WNS_comparison.png)
 
 ### Analysis notes
 
